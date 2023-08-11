@@ -1,4 +1,4 @@
-Hi, I am Jankie (23 | NotFlyLoong), an OIer | CTFer | Full-stack Engineer.
+Hi, I am Jankie (23 | NotFlyLoong), an OIer | CTFer | Full-stack Developer.
 
 My Website: https://awaish.link/
 
